@@ -1,0 +1,59 @@
+<!--index.html-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The space station ! Resort</title>
+</head>
+<body>
+
+<!--NAV-->
+<div>
+   <div>
+<ul>
+<a href="#home"><li>HOME</li></a>
+<a href="#gallery"><li>GALLERY</li></a>
+<a href="#contact"><li>RESERVATIONS</li></a>
+</ul>
+   </div>
+</div>
+
+<!-- END NAV-->
+
+
+<!-- HOME-->
+
+<div id="home">
+    <div>
+        <div>
+            <span> The space station</span>
+        </div>
+    </div>
+</div>
+<!-- END HOME-->
+
+<!-- GALLERY-->
+<section>
+<div id="gallery">
+<h1>Gallery</h1>
+    <div>
+	<!-- PHOTO CONTAINER 1 -->
+        <div>
+		<div>
+            <img src="" alt="Image of the solar system">
+        <div>
+		<h3>Click to enlarge</h3>
+		<p>We have several space launches departing daily, book your flight today</p>
+		</div>
+		</div>
+		</div>
+		<!-- END PHOTO CONTAINER 1 -->
+    </div>
+</div>
+</section>
+<!-- GALLERY-->
+
+</body>
+</html>
+
+
